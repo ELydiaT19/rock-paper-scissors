@@ -33,7 +33,7 @@ Game of Rock Paper Scissors against the computer. First to 5 wins!
 - Printed variables' values in **DOM** elements for the first time in a project
 - Used **event listeners** with button click events for the first time in a project
 - Assigned CSS classes in DOM using `Element.classList` for the first time in a project
-- Learned how to properly **reset integer variables** to `null` or `0`
+- Learned how to **reset application state** properly
 - Practiced **array methods**
 - Practiced **CSS Flexbox**
 - Practiced **BEM naming convention** for CSS classes 
