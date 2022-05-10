@@ -4,7 +4,7 @@
 Game of Rock Paper Scissors against the computer. First to 5 wins!
 <br>Created as part of The Odin Project Web Development Foundations <a href="https://www.theodinproject.com/lessons/foundations-rock-paper-scissors">curriculum</a>.
 
-#### ► <a href="">Live demo</a> 👀
+#### ► <a href="https://emilielydiat.github.io/rock-paper-scissors/">Live demo</a> 👀
 
 #### Features
 - **Pick** your weapon: rock, paper or scissons?
