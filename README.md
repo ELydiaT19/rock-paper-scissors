@@ -36,3 +36,4 @@ Game of Rock Paper Scissors against the computer. First to 5 wins!
 - Learned how to properly **reset integer variables** to `null` or `0`
 - Practiced **array methods**
 - Practiced **CSS Flexbox**
+- Practiced **BEM naming convention** for CSS classes 
