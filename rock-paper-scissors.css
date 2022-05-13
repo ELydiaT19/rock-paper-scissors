@@ -1,109 +1,109 @@
 body {
-    font-family: monospace;
+  font-family: monospace;
 }
 
 .rock-paper-scissors {
-    display: block;
-    margin: auto;
-    width: 600px;
-    text-align: center;
-    border: 1px solid gray;
-    border-radius: 4px;
-    padding: 16px;
-    margin-top: 40px;
-    background-color: #CFD8DC;
+  display: block;
+  margin: auto;
+  width: 600px;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 16px;
+  margin-top: 40px;
+  background-color: #cfd8dc;
 }
 
 .rock-paper-scissors__secondary-title {
-    margin-top: 48px;
+  margin-top: 48px;
 }
 
 .rock-paper-scissors__caption {
-   font-style: italic;
+  font-style: italic;
 }
 
 .rock-paper-scissors__caption--highlighted {
-    color: red;
+  color: red;
 }
 
 .rock-paper-scissors__btns {
-    display: block;
+  display: block;
 }
 
 .btn {
-    font-family: inherit;
-    border: 1px solid gray;
-    border-radius: 4px;
-    width: 120px;
-    height: 40px;
-    margin: 8px;
-    cursor: pointer;
+  font-family: inherit;
+  border: 1px solid gray;
+  border-radius: 4px;
+  width: 120px;
+  height: 40px;
+  margin: 8px;
+  cursor: pointer;
 }
 
 .btn--weapon {
-    font-size: 16px;
-    height: 80px;
+  font-size: 16px;
+  height: 80px;
 }
 
 .rock-paper-scissors__scoreboard {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid gray;
-    border-radius: 4px;
-    background-color: #F5F5F5;
-    width: auto;
-    margin: 16px 8px 8px 8px;
-    padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: auto;
+  margin: 16px 8px 8px 8px;
+  padding: 8px;
 }
 
 .rock-paper-scissors__player-outcomes {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 8px;
 }
 
 .rock-paper-scissors__player-outcome {
-    display: flex;
-    flex-direction: column;
-    width: 120px;
+  display: flex;
+  flex-direction: column;
+  width: 120px;
 }
 
 .rock-paper-scissors__scores {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 8px;
 }
 
 .rock-paper-scissors__score {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 40px;
-    width: 120px;
-    font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 120px;
+  font-size: 16px;
 }
 
 .rock-paper-scissors__separator {
-    border-top: 1px solid #BDBDBD;
-    width: 100%;
-    margin: 8px;
+  border-top: 1px solid #bdbdbd;
+  width: 100%;
+  margin: 8px;
 }
 
 .rock-paper-scissors__win-announcement {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .visible {
-    display: flex;
+  display: flex;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
